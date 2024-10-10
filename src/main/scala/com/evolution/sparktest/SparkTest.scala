@@ -22,5 +22,3 @@ object SparkTest extends App {
   }
 
 }
-
-//sbt run
